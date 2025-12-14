@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">A passionate IT guy from Poland</h3>
 #💫 About Me:
-<br>🧑‍🎓I am currently 3rd year Computer Science student with System Administration major<br>💻I have 3 years experience as IT Sevice Desk Specialist (Capgemini -> HCL Tech -> Hitachi Vantara)<br>💻 Currently holding IT Service Desk Shift Lead position<br>🫀A passionate about Data, Scripting and Infrastructure
+<br>🧑‍🎓I am currently 3rd year Computer Science student with System Administration major<br>💻Working as IT Infrastructure Engineer / System Engineer<br>💻<br>🫀A passionate about Data, Scripting and Infrastructure
 <br>📫 How to reach me: **jakubjozefczyk.kontakt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
