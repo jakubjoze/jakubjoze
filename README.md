@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 #💫 About Me:
-<br>🧑‍🎓I am currently 3rd year Computer Science student with System Administration major<br>💻Working as IT Infrastructure Engineer / System Engineer<br>💻<br>🫀A passionate about Data, Scripting and Infrastructure
+<br>🧑‍🎓I am currently 3rd year Computer Science student with System Administration major<br>💻Working as IT Infrastructure Engineer / System Engineer<br>🫀A passionate about Data, Scripting and Infrastructure
 <br>📫 How to reach me: **jakubjozefczyk.kontakt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
